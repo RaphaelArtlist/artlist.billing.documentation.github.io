@@ -13,9 +13,10 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Artlist', // Usually your GitHub org/user name.
-  projectName: 'Billing Docs', // Usually your repo name.
-
+  organizationName: 'RaphaelArtlist', // Usually your GitHub org/user name.
+  projectName: 'raphaelartlist.github.io', // Usually your repo name.
+  trailingSlash: false,
+  
   presets: [
     [
       'classic',
