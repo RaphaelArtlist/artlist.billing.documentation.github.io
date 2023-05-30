@@ -10,7 +10,7 @@ const config = {
   tagline:
     "See everything your need know about all Billing team services of Artlist company",
   url: "https://raphaelartlist.github.io",
-  baseUrl: "/billing-docs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
