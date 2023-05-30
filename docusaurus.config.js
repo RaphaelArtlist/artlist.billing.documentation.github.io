@@ -16,7 +16,6 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "Artlist", // Usually your GitHub org/user name.
   projectName: "Billing Docs", // Usually your repo name.
-
   presets: [
     [
       "classic",
@@ -72,7 +71,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Services",
                 to: "/docs/intro",
               },
             ],
