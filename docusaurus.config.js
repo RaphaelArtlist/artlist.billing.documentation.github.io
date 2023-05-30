@@ -17,6 +17,7 @@ const config = {
   organizationName: "RaphaelArtlist", // Usually your GitHub org/user name.
   projectName: "Billing Docs", // Usually your repo name.
   deploymentBranch: "deployment",
+  trailingSlash: false,
   presets: [
     [
       "classic",
