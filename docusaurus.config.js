@@ -9,14 +9,14 @@ const config = {
   title: "Billing Services Documentation",
   tagline:
     "See everything your need know about all Billing team services of Artlist company",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://raphaelartlist.github.io",
+  baseUrl: "/billing-docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "Artlist", // Usually your GitHub org/user name.
+  organizationName: "RaphaelArtlist", // Usually your GitHub org/user name.
   projectName: "Billing Docs", // Usually your repo name.
-
+  deploymentBranch: "deployment",
   presets: [
     [
       "classic",
