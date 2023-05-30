@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "RaphaelArtlist", // Usually your GitHub org/user name.
-  projectName: "Billing Docs", // Usually your repo name.
+  projectName: "raphaelartlist.github.io", // Usually your repo name.
   deploymentBranch: "deployment",
   trailingSlash: false,
   presets: [
