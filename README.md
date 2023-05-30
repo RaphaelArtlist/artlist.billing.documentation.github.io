@@ -2,6 +2,20 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+### Steps
+
+1. Clone the repo
+2. Create a new branch
+3. Make changes
+4. Push the branch
+5. Create a pull request to "source" branch
+6. Move locally to "source" branch
+7. Run
+
+```
+$ USE_SSH=true yarn deploy
+```
+
 ### Installation
 
 ```
